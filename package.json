@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-lakeland",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Lakeland GIS — Lakeland, Florida open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-13002a60f2c6ac1feb6b43508b24f112c863a7a309351461f440e7435c13d320",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-914019c45dc9c5a964e48b22981368420577684f038781eec9295f4f9c2e0262",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
